@@ -1,6 +1,6 @@
 (pt-br)
 
-Projeto CRUD feito em Java a fim de estudos. Ele possui conexão com bando de dados MySQL.
+Projeto CRUD feito em Java, com conexão a bando de dados MySQL, feito a fim de estudos.
 
 A idéia do projeto foi fazer um sistema de cadastro/edição de produtos de um mercado (ou qualquer loja).
 O programa permite que o usuário cadastre, liste, edite e exclua produtos.
@@ -33,7 +33,7 @@ Após isso só rodar a classe Main para executar o programa.
 ***
 (en)
 
-CRUD project made in Java for learning purposes. It has a connection to a MySQL database.
+CRUD project developed in Java, with MySQL database connection, created for educational purposes.
 
 The idea behind the project was to create a product registration/editing system for a market (or any store). The program allows users with access to register, list, edit, and delete products.
 
